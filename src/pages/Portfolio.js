@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 import RepoCard from "../components/RepoCard";
 import flock from "../images/flock-of-birds-917494.jpg";
 import forest from "../images/forest-under-clouds-1287075.jpg"
+import Resume from "../components/Resume";
 import ParallaxComponent from '../components/ParallaxComponent';
 import { ParallaxProvider } from 'react-scroll-parallax';
 
@@ -23,6 +24,7 @@ export default function Portfolio() {
             <Navbar page={"portfolio"} />
             <ParallaxProvider>
                 <ParallaxComponent src={flock} height={"300px"} />
+                <Resume />
                 {repoList ? (
                     <div className="container-fluid marT">
                         <div className="row">

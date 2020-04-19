@@ -1,19 +1,25 @@
-# Matthew-Portfolio-site
+# React Portfolio
 
-# Link
-   * https://matthewlgrimes94.github.io/Matthew-portfolio-site/
+This portflio site was built with react. Inside you will find links to my github and linkedin, along with an attached resume.
+
+# Link:
+   * https://matthewlgrimes94.github.io/react-portfolio/
+
+# Deployed at:
 
 # Screenshots
    * ![screenshot](https://github.com/Matthewlgrimes94/Portfolio-2/blob/master/images/Screenshot%20(26).png)
    * ![screenshot](https://github.com/Matthewlgrimes94/Portfolio-2/blob/master/images/Screenshot%20(27).png)
    * ![screenshot](https://github.com/Matthewlgrimes94/Portfolio-2/blob/master/images/Screenshot%20(28).png)
 # Assets:
-    *Foundation CSS and JS
-    *Google Fonts
-    *Font Awesome
-    *JQuery
-    *Stackoverflow
-    *Github API
+    * Materialize CSS and JS
+    * Google Fonts
+    * Font Awesome
+    * Stackoverflow
+    * Github API
+    * React
+    * Express
+    * React-parallax
 
 # License
 
